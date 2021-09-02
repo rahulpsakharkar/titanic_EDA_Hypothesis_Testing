@@ -1,1 +1,1 @@
-# titanic_EDA_Hypothesis_Testing
+# Titanic EDA and Hypothesis Testing
